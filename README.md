@@ -1,6 +1,6 @@
 # Cotacao_Moedas
 
-Este é um software para extrair a cotação de moedas utlizando a API do Awesomeapi.
+Criação de um software para extrair a cotação de moedas utlizando a API do Awesomeapi e análise exploratória de dados (EDA) com pandas no Jupyter Notebook.
 
 ## TECNOLOGIAS USADAS:
 - Pycharm 2023.3.2
