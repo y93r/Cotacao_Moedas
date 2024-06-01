@@ -33,9 +33,8 @@ pip install Babel
 
 
 ## REFERÊNCIAS
-[Janelas Bonitas no Python - Sistema de Login com CustomTkinter](https://www.youtube.com/watch?v=rQLO1m8oia4)
-
+[Janelas Bonitas no Python - Sistema de Login com CustomTkinter](https://www.youtube.com/watch?v=rQLO1m8oia4) <p>
 [Criar Janelas Para seu Código com PySimpleGUI](https://www.youtube.com/watch?v=Ol3n_BR4v70)
 
 ## DOCUMENTAÇÃO
-[Tinydb](https://tinydb.readthedocs.io/en/latest/) | [Pandas](https://pandas.pydata.org/docs/) | [Customtkinter](https://customtkinter.tomschimansky.com/documentation/) | [PyInstaller](https://pyinstaller.org/en/stable/) | [Requests](https://requests.readthedocs.io/en/latest/) | [Awesomeapi](https://docs.awesomeapi.com.br/api-de-moedas)
+[Tinydb](https://tinydb.readthedocs.io/en/latest/) | [Pandas](https://pandas.pydata.org/docs/) | [Customtkinter](https://customtkinter.tomschimansky.com/documentation/) | [PyInstaller](https://pyinstaller.org/en/stable/) | [Requests](https://requests.readthedocs.io/en/latest/) | [Babel](https://babel.pocoo.org/en/latest/) | [Awesomeapi](https://docs.awesomeapi.com.br/api-de-moedas)
