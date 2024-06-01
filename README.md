@@ -31,7 +31,6 @@ pip install Babel
 - A consulta é feita através da API Awesomeapi que é atualizado a cada 30 segundos com a biblioteca requests fazendo a requisição;
 - Os dados são salvos em um arquivo json com o auxilio do Tinydb que é um banco de dados prático e de fácil manipulação.
 
-
 ## REFERÊNCIAS
 [Janelas Bonitas no Python - Sistema de Login com CustomTkinter](https://www.youtube.com/watch?v=rQLO1m8oia4) <p>
 [Criar Janelas Para seu Código com PySimpleGUI](https://www.youtube.com/watch?v=Ol3n_BR4v70)
