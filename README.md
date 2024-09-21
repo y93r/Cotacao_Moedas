@@ -1,4 +1,4 @@
-# Cotacao_Moedas
+# Cotacao de Moedas: PROJETO END-TO-END COM PYTHON
 
 Criação de um software para extrair a cotação de moedas utlizando a API do Awesomeapi e análise exploratória de dados (EDA) com pandas no Jupyter Notebook.
 
@@ -37,6 +37,8 @@ pip install Babel
 pyinstaller --onefile --windowed --icon=icone.ico main.py
 ```
 - Será criado um único arquivo, sem janela de comando com um ícone personalizado.
+## ARTIGO
+[PROJETO END-TO-END COM PYTHON](https://www.linkedin.com/pulse/projeto-end-to-end-com-python-yara-de-oliveira-rufino-mngaf/?trackingId=VB57nJKLRR2uJ9E1%2FSf6Jg%3D%3D)
 ## REFERÊNCIAS
 [Janelas Bonitas no Python - Sistema de Login com CustomTkinter](https://www.youtube.com/watch?v=rQLO1m8oia4) <p>
 [Criar Janelas Para seu Código com PySimpleGUI](https://www.youtube.com/watch?v=Ol3n_BR4v70)
